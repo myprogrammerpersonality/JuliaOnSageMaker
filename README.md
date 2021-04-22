@@ -127,12 +127,12 @@ This whole process can be automated through an Amazon CloudFormation template. T
 
 5- Click **Next**.
 
-6- Choose a name for the stack and also the notebook instance name and type.
+6- Choose a name for the stack and also the notebook instance name and type, also specify volume size.
 
-7- Click **Next **for this page and the next one.
+7- Click **Next** for this page and the next one.
 
 8- Check the **I acknowledge that AWS CloudFormation might create IAM resources**.
 
-9- Click Create stack.
+9- Click **Create stack**.
 
 CloudFormation will make a notebook instance for you along with Lifecycle configuration. You will always can delete the whole created resources with the Delete option of the stack.
