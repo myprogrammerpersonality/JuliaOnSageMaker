@@ -123,7 +123,7 @@ This whole process can be automated through an Amazon CloudFormation template. T
 
 3- On the stacks section, click on Create Stack / From new resources (standard).
 
-4- Choose the **Template is ready** and** Upload a template file** option and upload the downloaded template.
+4- Choose the **Template is ready** and **Upload a template file** option and upload the downloaded template.
 
 5- Click **Next**.
 
